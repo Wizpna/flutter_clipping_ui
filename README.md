@@ -3,8 +3,7 @@
 A new Flutter project.
 
 <p align="center">
-  <img src="https://github.com/Wizpna/my_calculator/blob/master/Screenshot_20181230-122243.png" width="350" title="Screenshot">
-  <img src="https://github.com/Wizpna/my_calculator/blob/master/Screenshot_20181230-122320.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Wizpna/flutter_clipping_ui/blob/master/screenshot/Screenshot_20190112-074612.png" width="350" title="Screenshot">
 </p>
 
 Contact - Let's become friend
